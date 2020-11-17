@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/third">
+        <file>example/pay.png</file>
+        <file>example/bhc.png</file>
+        <file>example/bhg.png</file>
+        <file>example/bic.jpg</file>
+        <file>example/bih.jpg</file>
+        <file>example/bii.jpg</file>
+        <file>example/ha.png</file>
+        <file>example/hcm.png</file>
+        <file>example/hr.png</file>
+        <file>example/hva.png</file>
+        <file>example/ia.jpg</file>
+        <file>example/icm.jpg</file>
+        <file>example/icp.jpg</file>
+        <file>example/icr.jpg</file>
+        <file>example/ir.jpg</file>
+        <file>example/iva.jpg</file>
+        <file>example/scc.jpg</file>
+        <file>example/sgm.jpg</file>
+        <file>example/smy.jpg</file>
+        <file>example/sp.jpg</file>
+        <file>example/spy.jpg</file>
+        <file>example/ssy.jpg</file>
+        <file>example/fix.png</file>
+        <file>example/cafe.jpg</file>
+        <file>example/coffee.jpg</file>
+        <file>example/dot.png</file>
+    </qresource>
+    <qresource prefix="/Third"/>
+</RCC>
